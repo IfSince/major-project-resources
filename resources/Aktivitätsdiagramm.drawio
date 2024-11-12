@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="3071" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2598" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -355,7 +355,7 @@
         <mxCell id="gfXV21510MfmklzowqW1-64" value="FormConfig im Cache persistieren" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="1681" y="810" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gfXV21510MfmklzowqW1-66" value="Konfigurationen speichern" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="gfXV21510MfmklzowqW1-66" value="Änderungen speichern" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="1681" y="650" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-68" value="Konfigurationen bearbeiten" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
@@ -471,7 +471,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-126" value="Konfigurationen schließen" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="570" width="140" height="40" as="geometry" />
+          <mxGeometry x="1920" y="570" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-127" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kh3jKs6r-VNOBaE9r75T-230" target="gfXV21510MfmklzowqW1-126">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -480,10 +480,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-128" value="Nicht gespeicherte Änderungen?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="645" width="119.99" height="50" as="geometry" />
+          <mxGeometry x="1930" y="645" width="119.99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-130" value="Warnung anzeigen" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="730" width="140" height="40" as="geometry" />
+          <mxGeometry x="1920" y="730" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-135" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" parent="1" source="gfXV21510MfmklzowqW1-133" target="gfXV21510MfmklzowqW1-64">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -496,28 +496,28 @@
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-137" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" parent="1" source="gfXV21510MfmklzowqW1-126" target="gfXV21510MfmklzowqW1-128">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="1661" y="800" as="targetPoint" />
-            <mxPoint x="1661" y="760" as="sourcePoint" />
+            <mxPoint x="1721" y="800" as="targetPoint" />
+            <mxPoint x="1721" y="760" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-139" value="Ja" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" parent="1" source="gfXV21510MfmklzowqW1-128" target="gfXV21510MfmklzowqW1-130">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2040" y="735" as="targetPoint" />
+            <mxPoint x="2100" y="735" as="targetPoint" />
             <mxPoint as="offset" />
-            <mxPoint x="2040" y="695" as="sourcePoint" />
+            <mxPoint x="2100" y="695" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfXV21510MfmklzowqW1-142" value="Sollen Änderungen gespeichert werden?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="805" width="119.99" height="50" as="geometry" />
+        <mxCell id="gfXV21510MfmklzowqW1-142" value="Änderungen speichern?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="805" width="119.99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-143" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" parent="1" source="gfXV21510MfmklzowqW1-130" target="gfXV21510MfmklzowqW1-142">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="2260" y="815" as="targetPoint" />
-            <mxPoint x="2260" y="775" as="sourcePoint" />
+            <mxPoint x="2320" y="815" as="targetPoint" />
+            <mxPoint x="2320" y="775" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfXV21510MfmklzowqW1-144" value="Ja" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" parent="1" source="gfXV21510MfmklzowqW1-142" target="gfXV21510MfmklzowqW1-64">
-          <mxGeometry x="-0.3333" relative="1" as="geometry">
+        <mxCell id="gfXV21510MfmklzowqW1-144" value="Ja" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfXV21510MfmklzowqW1-142" target="gfXV21510MfmklzowqW1-133">
+          <mxGeometry x="-0.8326" relative="1" as="geometry">
             <mxPoint x="2000" y="865" as="targetPoint" />
             <mxPoint as="offset" />
             <mxPoint x="2000" y="825" as="sourcePoint" />
@@ -525,28 +525,28 @@
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-145" value="Nein" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" parent="1" source="gfXV21510MfmklzowqW1-142" target="gfXV21510MfmklzowqW1-148">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="2070" y="835" as="targetPoint" />
+            <mxPoint x="2130" y="835" as="targetPoint" />
             <mxPoint as="offset" />
-            <mxPoint x="2020" y="835" as="sourcePoint" />
+            <mxPoint x="2080" y="835" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-148" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="695" width="40" height="40" as="geometry" />
+          <mxGeometry x="2110" y="650" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-149" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="gfXV21510MfmklzowqW1-148" parent="1" target="gfXV21510MfmklzowqW1-150">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="2190" y="715" as="targetPoint" />
-            <mxPoint x="2280" y="665" as="sourcePoint" />
+            <mxPoint x="2250" y="715" as="targetPoint" />
+            <mxPoint x="2340" y="665" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gfXV21510MfmklzowqW1-150" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="695" width="40" height="40" as="geometry" />
+          <mxGeometry x="2190" y="650" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gfXV21510MfmklzowqW1-151" value="Nein" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" parent="1" source="gfXV21510MfmklzowqW1-126" target="gfXV21510MfmklzowqW1-148">
+        <mxCell id="gfXV21510MfmklzowqW1-151" value="Nein" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfXV21510MfmklzowqW1-128" target="gfXV21510MfmklzowqW1-148">
           <mxGeometry x="-0.8747" relative="1" as="geometry">
-            <mxPoint x="2160" y="580" as="targetPoint" />
+            <mxPoint x="2220" y="580" as="targetPoint" />
             <mxPoint as="offset" />
-            <mxPoint x="2060" y="580" as="sourcePoint" />
+            <mxPoint x="2120" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
